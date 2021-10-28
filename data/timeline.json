@@ -1,0 +1,152 @@
+[
+    {
+        "order": 1,
+        "era": "Alt Rock",
+        "albums": [
+            {
+                "title": "Pablo Honey",
+                "filename": "pablohoney.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "February",
+                "releaseYear": 1993,
+                "link":"https://en.wikipedia.org/wiki/Pablo_Honey"
+            },
+            {
+                "title": "The Bends",
+                "filename": "thebends.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "March",
+                "releaseYear": 1995,
+                "link": "https://en.wikipedia.org/wiki/The_Bends_(album)"
+            }
+        ],
+        "start": 1993,
+        "end": 1997,
+        "image": "altrock.svg"
+    },
+    {
+        "order": 2,
+        "era": "Golden",
+        "albums": [
+            {
+                "title": "OK Computer",
+                "filename": "okcomputer.txt",
+                "songs": [],
+                "cover": "",
+                "background": [],
+                "releaseMonth": "May",
+                "releaseYear": 1997,
+                "link": "https://en.wikipedia.org/wiki/OK_Computer"
+            }
+        ],
+        "start": 1997,
+        "end": 2000,
+        "image": "golden.svg"
+    },
+    {
+        "order": 3,
+        "era": "Silver",
+        "albums": [
+            {
+                "title": "Kid A",
+                "filename": "kida.txt",
+                "songs": [],
+                "cover": "",
+                "background": [],
+                "releaseMonth": "April",
+                "releaseYear": 2000,
+                "link": "https://en.wikipedia.org/wiki/Kid_A"
+            },
+            {
+                "title": "Amnesiac",
+                "filename": "amnesiac.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "Amnesiac",
+                "releaseYear": 2001,
+                "link": "https://en.wikipedia.org/wiki/Amnesiac_(album)"
+            }
+        ],
+        "start": 2000,
+        "end": 2003,
+        "image": "silver.svg"
+    },
+    {
+        "order": 4,
+        "era": "Fusion",
+        "albums": [
+            {
+                "title": "Hail to the Thief",
+                "filename": "hailtothethief.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "June",
+                "releaseYear": 2003,
+                "link": "https://en.wikipedia.org/wiki/Hail_to_the_Thief"
+            }
+        ],
+        "start": 2003,
+        "end": 2007,
+        "image": "fusion.svg"
+    },
+    {
+        "order": 5,
+        "era": "Rebirth",
+        "albums": [
+            {
+                "title": "In Rainbows",
+                "filename": "inrainbows.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "October",
+                "releaseYear": 2007,
+                "link": "https://en.wikipedia.org/wiki/In_Rainbows"
+            }
+        ],
+        "start": 2007,
+        "end": 2011,
+        "image": "rebirth.svg"
+    },
+    {
+        "order": 6,
+        "era": "Experimental",
+        "albums": [
+            {
+                "title": "The King of Limbs",
+                "filename": "kingoflimbs.txt",
+                "songs": [],
+                "background": [],
+                "releaseMonth": "February",
+                "releaseYear": 2011,
+                "link": "https://en.wikipedia.org/wiki/The_King_of_Limbs"
+            }
+        ],
+        "start": 2011,
+        "end": 2016,
+        "image": "experimental.svg"
+    },
+    {
+        "order": 7,
+        "era": "Tranquil",
+        "albums": [
+            {
+                "title": "A Moon Shaped Pool",
+                "filename": "moonshapedpool.txt",
+                "songs": [],
+                "cover": "",
+                "background": [],
+                "releaseMonth": "May",
+                "releaseYear": 2016,
+                "link": "https://en.wikipedia.org/wiki/A_Moon_Shaped_Pool"
+            }
+        ],
+        "mood": "",
+        "sytle": "",
+        "start": 2016,
+        "end": 2022,
+        "image": "tranquil.svg",
+        "className": ""
+    }
+]
